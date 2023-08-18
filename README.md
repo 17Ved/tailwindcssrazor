@@ -21,12 +21,12 @@ Step 4 - Install all necessary dependencies - by following below commands
 			IV.  Go to tailwind.config.js file and add - ["*"] in content / add asterisk with double inverted comma.
 
 			V.   Go to package.json - and add this line -  "scripts": {
-    															"start": "vite"
-  															},
+    										    "start": "vite"
+  										   },
 
   			VI.  Create 'main.css' file in same folder and add these lines - @tailwind base;
-																			 @tailwind components;
-																			 @tailwind utilities;
+											 @tailwind components;
+											 @tailwind utilities;
 
 			VII. Now link 'index.html' with 'main.css' by inserting this line - <link rel="stylesheet" href="main.css" />	in index.html.
 
