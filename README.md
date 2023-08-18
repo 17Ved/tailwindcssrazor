@@ -39,8 +39,7 @@ Step 4 - Install all necessary dependencies - by following below commands
 
 Step 5 - Now go to terminal and run your project - npm run start 
 
-
-
+If you get this error -  Unknown at rule @tailwindcss (unknownAtRules) - Follow this link - https://flaviocopes.com/fix-unknown-at-rule-tailwind/
 
 
 Deployed Project link - https://devrazorpayclonex.netlify.app/
