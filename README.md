@@ -4,7 +4,7 @@ Step 1 - Donwload and install Nodejs from here (Official Website) (if already in
 
 Step 2 - Download our project's zip file - link - https://github.com/17Ved/tailwindcssrazor/   
 
-Step 2A - Extract folder and copy only index.html file from it.
+Step 2A - Extract folder and copy only "index.html" file & "images" folder from it.
 
 Step 3 - Create a folder on desktop, Right click on folder and click on 'Open with VSCode'.
                                                                                                                                                                 
